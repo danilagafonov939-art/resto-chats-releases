@@ -1,0 +1,19 @@
+{
+  "stickers": [
+    {
+      "name": "monkey-1",
+      "file": "monkey-1.webp",
+      "sha256": "f446255785a4a8bb7ac086edc813b8e7d9f5e26e4f48438c75a30662524b8a9f"
+    },
+    {
+      "name": "monkey-2",
+      "file": "monkey-2.webp",
+      "sha256": "a295c3046fa944d0d8f598477afe5791f62892269ae0fdde6deaa5a74c6ff20a"
+    },
+    {
+      "name": "monkey-3",
+      "file": "monkey-3.webp",
+      "sha256": "23e733134cec193a2872890fc6e5f0f580042a7acbaa67122b5bb33a7f277b06"
+    }
+  ]
+}
